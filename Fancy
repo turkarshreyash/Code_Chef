@@ -1,9 +1,0 @@
-#include<iostream>
-int main(){
-    byte t;
-    string input="";
-    cin>>t;
-    while(t--){
-
-    }
-}
